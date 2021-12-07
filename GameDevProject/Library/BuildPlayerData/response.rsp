@@ -11,6 +11,7 @@
 -a="D:\Classes\Game Development\GameDevClass2\GameDevProject\Library\PlayerScriptAssemblies\Cinemachine.dll"
 -a="D:\Classes\Game Development\GameDevClass2\GameDevProject\Library\PlayerScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll"
 -a="D:\Classes\Game Development\GameDevClass2\GameDevProject\Library\PlayerScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll"
+-a="D:\Classes\Game Development\GameDevClass2\GameDevProject\Library\PlayerScriptAssemblies\Unity.Postprocessing.Runtime.dll"
 -a="D:\Classes\Game Development\GameDevClass2\GameDevProject\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\AOT\Newtonsoft.Json.dll"
 -a="D:\Classes\Game Development\GameDevClass2\GameDevProject\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Portable\Newtonsoft.Json.dll"
 -a="D:\Classes\Game Development\GameDevClass2\GameDevProject\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll"
